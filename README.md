@@ -1,8 +1,9 @@
-# voiceassist
+# Shuraksha
 
 A new Flutter project.
 
-## Getting Started
+## Description
+This is project is about to when women is in danger they can click on the SOS button it sends the alert to their family members and nearby police stations.And this application shows the nearby police staions.This application contains some protect yourself techniques and acts which are related to women.This appliation has contains track my travel feature when someone want to go to some place then they can add thier destination address that location can be track by their family members
 
 This project is a starting point for a Flutter application.
 
